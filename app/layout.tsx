@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: 'Shop - Carrito de Compras',
   description: 'Demo de carrito de compras en Next.js',
 };
-
+//TODO: Agrega un favicon
 export default function RootLayout({
   children,
 }: {
